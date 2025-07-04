@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="APITestSuite">
+    <test name="LoginAPITest">
+        <classes>
+            <class name="tests.LoginAPITest"/>
+        </classes>
+    </test>
+</suite>
